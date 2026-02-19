@@ -36,3 +36,4 @@ public class DaySevenMethodWithParameters {
 // peak for today: 
 // Math.pow only returns double; alternative (number * number);
 // int variableName = (int) //variableName you want to convert into integer;
+// feb. 19, 2026
